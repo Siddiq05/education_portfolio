@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-height: 100%;
+    overflow: hidden;
+    height: 100vh;
+    background-image: url(./1657537414115.jpg);
+}
+.pi{
+    margin: 45px 0px 0px 35px;
+    color: white;
+    width: 100vw;
+    height: 33vh;
+}
+.pi p{
+    font-weight: bold;
+    font-size: 35px;
+}
+.pi span{
+    font-weight: lighter;
+    font-size: 25px;
+}
+.pu{
+    margin: 0px 0px 0px 35px;
+    color: rgb(202, 3, 3);
+    width: 100vw;
+    height: 33vh;
+}
+.pu p{
+    font-weight: bold;
+    font-size: 35px;
+}
+.pu span{
+    font-weight: lighter;
+    font-size: 25px;
+}
+.c{
+    margin: 0px 0px 0px 35px;
+    color: aqua;
+    width: 100vw;
+    height: 33vh;
+}
+.c p{
+    font-weight: bold;
+    font-size: 35px;
+}
+.c span{
+    font-weight: lighter;
+    font-size: 25px;
+}
